@@ -1,10 +1,11 @@
  body {background-color:black;}
 h1{color:rgb(89, 90, 89);}
 
+
 .container {
     margin:0 auto;
     max-width: 600px;
-    height: 50%;
+    height: 70%;
     border-radius: 10%;
     background-color: white;
     padding: 20px;
@@ -12,7 +13,7 @@ h1{color:rgb(89, 90, 89);}
 
 h1 {
     text-align :center;
-    font-size: 3em;;
+    font-size: 3em;
 }
 
 label {
@@ -28,3 +29,15 @@ label {
 button {
     margin-left: 40%;
 }
+
+#solution {
+    width:60%;
+    margin: 0 auto;
+    height: 150px;
+    }
+
+.answers {
+    
+    text-align: left;
+}
+
